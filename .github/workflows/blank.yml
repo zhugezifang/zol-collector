@@ -29,11 +29,10 @@ jobs:
       run: mvn -B package --file pom.xml
     - name: Run Java Application
       run: java -cp target/zhihu-collector-1.0-SNAPSHOT-jar-with-dependencies.jar org.example.SpiderMain
-    - name: Commit files
+    - name: Commit
       run: |
-         git config --local user.email "xiaoqiu2017wy@163.com"
-         git config --local user.name "zhugezifang"
-         git pull
+         git config --local user.email xiaoqiu2017wy@163.com
+         git config --local user.name zhugezifang
          git add -A
          git commit -m "update"
     - name: Push changes
