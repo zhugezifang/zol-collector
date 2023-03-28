@@ -7,8 +7,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-import javafx.util.Pair;
-
 
 public class MainTest {
     public static void main(String[] args) {
