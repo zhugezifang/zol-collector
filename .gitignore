@@ -1,0 +1,36 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# compiled files
+target/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# maven
+dependency-reduced-pom.xml
+
+# vim
+*~
+*.swp
+*.swo
+
+# deploy files
+*.tar.gz
+
+# keyTab
+#*.keytab
+
+#macOs
+*.DS_Store
+
+#build file
+*.jar
+*.versionsBackup
+
+#log
+*.log
