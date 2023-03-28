@@ -33,6 +33,7 @@ jobs:
       run: |
          git config --local user.email "xiaoqiu2017wy@163.com"
          git config --local user.name "zhugezifang"
+         git pull
          git add -A
          git commit -m "update"
     - name: Push changes
