@@ -1,7 +1,8 @@
-package org.example;
+package org.example.processor;
 
+import org.example.pipeline.ConsolePipeline;
+import org.example.domain.ZolResult;
 import org.example.utils.CnmoParamParse;
-import org.example.utils.ParamParse;
 import us.codecraft.webmagic.Page;
 import us.codecraft.webmagic.Site;
 import us.codecraft.webmagic.Spider;
@@ -11,6 +12,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+/**
+ * cnmo手机爬虫
+ */
 
 public class CnmoPageProcessor implements PageProcessor {
 

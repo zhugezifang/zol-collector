@@ -1,15 +1,19 @@
-package org.example;
+package org.example.processor;
 
+import org.example.domain.ZolResult;
 import org.example.utils.ParamParse;
 import us.codecraft.webmagic.Page;
 import us.codecraft.webmagic.Site;
-import us.codecraft.webmagic.Spider;
 import us.codecraft.webmagic.processor.PageProcessor;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+/**
+ * 中关村手机价格数据
+ */
 
 public class ZoLPageProcessor implements PageProcessor {
 

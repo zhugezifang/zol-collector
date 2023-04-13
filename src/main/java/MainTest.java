@@ -1,11 +1,6 @@
-import com.alibaba.fastjson.JSONObject;
-import com.sun.corba.se.impl.orb.ParserTable;
-import org.example.ZolResult;
+import org.example.domain.ZolResult;
 
-import java.lang.reflect.Type;
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 
 public class MainTest {
@@ -38,15 +33,15 @@ public class MainTest {
     }
 
     public static void quickSort(int[] a, int start, int end) {
-        if (start>=end){
+        if (start >= end) {
             return;
         }
-        int partition=divide(a,start,end);
-        quickSort(a,start,partition-1);
-        quickSort(a,partition+1,end);
+        int partition = divide(a, start, end);
+        quickSort(a, start, partition - 1);
+        quickSort(a, partition + 1, end);
     }
 
-    public static int divide(int[] a,int start,int end){
+    public static int divide(int[] a, int start, int end) {
         int base=a[end];
         while (start<end){
             while (start<end&&a[start]<=base){
@@ -61,7 +56,7 @@ public class MainTest {
             while (start<end&&a[end]>=base){
                 end--;
             }
-            if(a[end]<base){
+            if (a[end]<base){
                 int temp=a[start];
                 a[start]=a[end];
                 a[end]=temp;
@@ -70,7 +65,6 @@ public class MainTest {
         }
         return start;
     }
-
 
     public static class Test {
         private static volatile ZolResult zolResult = null;

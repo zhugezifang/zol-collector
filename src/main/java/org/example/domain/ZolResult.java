@@ -1,5 +1,8 @@
-package org.example;
+package org.example.domain;
 
+/**
+ * 手机信息
+ */
 public class ZolResult {
     private String productId;
     private String listUrl;

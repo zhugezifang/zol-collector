@@ -1,6 +1,7 @@
-package org.example;
+package org.example.pipeline;
 
 import com.alibaba.fastjson.JSONObject;
+import org.example.domain.ZolResult;
 import us.codecraft.webmagic.ResultItems;
 import us.codecraft.webmagic.Task;
 import us.codecraft.webmagic.pipeline.Pipeline;
@@ -9,7 +10,6 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.net.URL;
 import java.util.Map;
 import java.util.Optional;
 

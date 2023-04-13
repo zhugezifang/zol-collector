@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.pipeline.ConsolePipeline;
+import org.example.processor.ZoLPageProcessor;
 import us.codecraft.webmagic.Spider;
 
 public class SpiderMain {
