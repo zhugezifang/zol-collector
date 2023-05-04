@@ -13576,3 +13576,383 @@
 1285495	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1286/1285495/param.shtml	华为nova 5i Pro		8GB	128GB	华为		2019年07月
 1285496	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1286/1285496/param.shtml	华为nova 5i Pro		6GB	128GB	华为		2019年07月
 268425	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/269/268425/param.shtml	华为U7520参数				华为		2010年12月
+1494683	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1495/1494683/param.shtml	HUAWEI nova 11	￥2449（预售）	8GB	128GB	华为		2023年04月
+1355562	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1356/1355562/param.shtml	HUAWEI P60	￥4988	8GB	256GB	华为		2023年03月
+1344163	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1345/1344163/param.shtml	HUAWEI Mate50	￥4194	8GB	128GB	华为		2022年09月
+1505460	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1506/1505460/param.shtml	华为畅享 60X	￥1799（预售）	8GB	128GB	华为		2023年04月
+1355563	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1356/1355563/param.shtml	HUAWEI P60 Pro	￥4988	8GB	256GB	华为		2023年03月
+1467267	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1468/1467267/param.shtml	华为畅享 60	￥1299	8GB	128GB	华为		2023年03月
+1405053	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1406/1405053/param.shtml	HUAWEI Mate X3	￥4988	12GB	256GB	华为		2023年04月
+1344847	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1345/1344847/param.shtml	HUAWEI Mate50 Pro	￥5491	8GB	256GB	华为		2022年09月
+1403257	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1404/1403257/param.shtml	华为nova 10	￥2289	8GB	128GB	华为		2022年07月
+1494685	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1495/1494685/param.shtml	HUAWEI nova 11 Pro	￥3499（预售）	8GB	256GB	华为		2023年04月
+1508891	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1509/1508891/param.shtml	HUAWEI nova 11 Ultra	￥4499（预售）	12GB	512GB	华为		2023年04月
+1326884	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1327/1326884/param.shtml	华为P50	￥3688	8GB	128GB	华为		2021年09月
+1337287	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1338/1337287/param.shtml	华为Mate40 Pro	￥5098	8GB	256GB	华为		2020年10月
+1478248	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1479/1478248/param.shtml	HUAWEI P60	￥4488	8GB	128GB	华为		2023年03月
+1403269	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1404/1403269/param.shtml	HUAWEI nova 10 SE	￥1849	8GB	128GB	华为		2022年12月
+1315874	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1316/1315874/param.shtml	华为P40 Pro	￥4919	8GB	128GB	华为		2020年04月
+1238183	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1239/1238183/param.shtml	华为Mate30	￥3399	8GB	128GB	华为		2019年11月
+1466331	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1467/1466331/param.shtml	HUAWEI nova 10 青春版	￥1519	8GB	128GB	华为		2023年03月
+1326272	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1327/1326272/param.shtml	华为Mate40	￥4999	8GB	128GB	华为		2020年12月
+1315404	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1316/1315404/param.shtml	华为nova 7	￥2199	8GB	128GB	华为		2020年04月
+1265181	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1266/1265181/param.shtml	华为Mate30 Pro	￥5499	8GB	256GB	华为		2019年11月
+1416722	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1417/1416722/param.shtml	华为nova 10 Pro	￥3149	8GB	256GB	华为		2022年07月
+1330794	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1331/1330794/param.shtml	华为P50 Pocket	￥7288	8GB	256GB	华为		2021年12月
+1349131	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1350/1349131/param.shtml	华为P50 Pro	￥5308	8GB	256GB	华为		2021年08月
+1416597	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1417/1416597/param.shtml	华为nova 10	￥2479	8GB	256GB	华为		2022年07月
+1400006	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1401/1400006/param.shtml	华为nova 9 SE	￥1258	8GB	128GB	华为		2022年03月
+1291831	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1292/1291831/param.shtml	华为P40	￥3658	6GB	128GB	华为		2020年04月
+1427277	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1428/1427277/param.shtml	华为nova 10z	￥1619	8GB	256GB	华为		2022年09月
+1478249	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1479/1478249/param.shtml	HUAWEI Mate X3	￥13999	12GB	512GB	华为		2023年04月
+1399082	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1400/1399082/param.shtml	华为P50E	￥3319	8GB	256GB	华为		2022年03月
+1412537	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1413/1412537/param.shtml	华为畅享 50	￥1059	6GB	128GB	华为		2022年06月
+1415244	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1416/1415244/param.shtml	华为畅享 50 Pro	￥1469	8GB	128GB	华为		2022年07月
+1349391	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1350/1349391/param.shtml	HUAWEI Mate 50E	￥3369	8GB	128GB	华为		2022年10月
+1363940	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1364/1363940/param.shtml	华为nova 9	￥1099	8GB	128GB	华为		2021年09月
+1478247	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1479/1478247/param.shtml	HUAWEI P60 Pro	￥7988	12GB	512GB	华为		2023年03月
+1511776	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1512/1511776/param.shtml	HUAWEI nova 11	￥2749（预售）	8GB	256GB	华为		2023年04月
+1511790	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1512/1511790/param.shtml	华为畅享 60X	￥1999（预售）	8GB	256GB	华为		2023年04月
+1319769	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1320/1319769/param.shtml	华为nova 7 SE	￥1999	8GB	128GB	华为		2020年04月
+1380727	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1381/1380727/param.shtml	华为P50	￥4199	8GB	256GB	华为		2021年09月
+1403270	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1404/1403270/param.shtml	华为nova 10 Pro	￥2899	8GB	128GB	华为		2022年07月
+1338711	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1339/1338711/param.shtml	华为nova 8	￥2299	8GB	128GB	华为		2020年12月
+1427285	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1428/1427285/param.shtml	HUAWEI Mate50	￥4644	8GB	256GB	华为		2022年09月
+1478245	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1479/1478245/param.shtml	HUAWEI P60	￥4488	8GB	512GB	华为		2023年03月
+1370020	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1371/1370020/param.shtml	华为nova 9 Pro	￥2199	8GB	128GB	华为		2021年09月
+1319765	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1320/1319765/param.shtml	华为nova 7 Pro	￥2299	8GB	128GB	华为		2020年04月
+1359077	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_1.html	https://detail.zol.com.cn/1360/1359077/param.shtml	华为P40	￥3659	6GB	128GB	华为		2021年02月
+1338712	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1339/1338712/param.shtml	华为nova 8 Pro	￥2899	8GB	128GB	华为		2020年12月
+1431888	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1432/1431888/param.shtml	华为Pocket S 	￥5958	8GB	128GB	华为		2022年11月
+1336507	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1337/1336507/param.shtml	华为Mate X2	￥18799	8GB	256GB	华为		2021年02月
+1511791	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1512/1511791/param.shtml	华为畅享 60X	￥2299（预售）	8GB	512GB	华为		2023年04月
+1293929	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1294/1293929/param.shtml	华为Mate30	￥4899	8GB	256GB	华为		2019年11月
+1473925	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1474/1473925/param.shtml	HUAWEI P60 Art版	￥8988	12GB	512GB	华为		2023年03月
+1383255	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1384/1383255/param.shtml	华为Mate Xs 2	￥8555	8GB	256GB	华为		2022年05月
+1337290	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1338/1337290/param.shtml	华为Mate40 RS保时捷版	￥25999	12GB	512GB	华为		2020年10月
+1349392	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1350/1349392/param.shtml	HUAWEI Mate 50 RS 保时捷版	￥11799	12GB	512GB	华为		2022年09月
+1345500	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1346/1345500/param.shtml	华为Mate40 Pro	￥7499	8GB	128GB	华为		2020年10月
+1478254	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1479/1478254/param.shtml	华为畅享 60	￥1499	8GB	256GB	华为		2023年03月
+1353427	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1354/1353427/param.shtml	华为Mate40E	￥3849	8GB	128GB	华为		2021年03月
+1327459	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1328/1327459/param.shtml	华为畅享20 Pro	￥1399	6GB	128GB	华为		2020年06月
+1434831	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1435/1434831/param.shtml	华为畅享50z	￥989	6GB	128GB	华为		2022年12月
+1290790	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1291/1290790/param.shtml	华为畅享10 Plus	￥1299	4GB	128GB	华为		2019年09月
+1337289	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1338/1337289/param.shtml	华为Mate40 Pro+	￥22594	12GB	256GB	华为		2020年10月
+1303051	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1304/1303051/param.shtml	华为Mate Xs	￥6934	8GB	512GB	华为		
+1427288	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1428/1427288/param.shtml	HUAWEI Mate50 Pro 	￥6594	8GB	512GB	华为		2022年09月
+1511778	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1512/1511778/param.shtml	HUAWEI nova 11 昆仑玻璃版	￥3349（预售）	8GB	512GB	华为		2023年04月
+1316633	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1317/1316633/param.shtml	华为P40 Pro+	￥9188	8GB	512GB	华为		2020年06月
+1316637	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1317/1316637/param.shtml	华为P40 Pro	￥5768	8GB	256GB	华为		2020年04月
+1427330	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1428/1427330/param.shtml	HUAWEI Mate 50E	￥3859	8GB	256GB	华为		2022年10月
+1400881	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1401/1400881/param.shtml	华为nova 9 SE	￥1479	8GB	256GB	华为		2022年03月
+1337911	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1338/1337911/param.shtml	华为畅享20	￥828	4GB	128GB	华为		2020年09月
+1295323	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1296/1295323/param.shtml	华为畅享10	￥899	4GB	64GB	华为		2019年10月
+1511777	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1512/1511777/param.shtml	HUAWEI nova 11 昆仑玻璃版	￥2949（预售）	8GB	256GB	华为		2023年04月
+1478246	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1479/1478246/param.shtml	HUAWEI P60 Art版	￥11998	12GB	1TB	华为		2023年03月
+1334934	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1335/1334934/param.shtml	华为畅享20 Plus	￥1099	6GB	128GB	华为		2020年9月
+1301506	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1302/1301506/param.shtml	华为nova 6 SE	￥969	8GB	128GB	华为		2019年12月
+1427286	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1428/1427286/param.shtml	HUAWEI Mate50	￥5689	8GB	512GB	华为		2022年09月
+1293875	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1294/1293875/param.shtml	华为Mate30	￥2968	6GB	128GB	华为		2019年09月
+1412808	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1413/1412808/param.shtml	华为畅享 50	￥1199	8GB	128GB	华为		2022年06月
+1399079	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1400/1399079/param.shtml	华为Mate40E Pro	￥5799	8GB	256GB	华为		2022年03月
+1478250	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1479/1478250/param.shtml	HUAWEI Mate X3 典藏版	￥15999	12GB	1TB	华为		2023年04月
+1338710	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1339/1338710/param.shtml	华为nova 8 SE	￥1099	8GB	128GB	华为		2020年11月
+1288918	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1289/1288918/param.shtml	华为畅享10e	￥769	4GB	64GB	华为		2020年3月
+1401618	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1402/1401618/param.shtml	华为P50E	￥3149	8GB	128GB	华为		2022年03月
+1331386	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1332/1331386/param.shtml	华为麦芒9	￥999	6GB	128GB	华为		2020年08月
+1292757	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1293/1292757/param.shtml	华为Mate30 RS保时捷版	￥9599	12GB	512GB	华为		2019年11月
+1352844	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1353/1352844/param.shtml	华为畅享20 SE	￥988	4GB	128GB	华为		2021年1月
+1293893	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1294/1293893/param.shtml	华为Mate30 Pro	￥3999	8GB	128GB	华为		2019年09月
+1337762	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1338/1337762/param.shtml	华为Mate30E Pro	￥3299	8GB	128GB	华为		2020年10月
+1316638	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1317/1316638/param.shtml	华为P40 Pro	￥6999	8GB	512GB	华为		2020年04月
+1511779	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1512/1511779/param.shtml	HUAWEI nova 11 Pro	￥3999（预售）	12GB	512GB	华为		2023年04月
+1389079	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1390/1389079/param.shtml	华为nova 9	￥1399	8GB	256GB	华为		2021年09月
+1362453	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1363/1362453/param.shtml	华为Mate40 RS保时捷版	￥10999	8GB	256GB	华为		2021年03月
+1298295	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1299/1298295/param.shtml	华为畅享10S		6GB	64GB	华为		2019年11月
+1344364	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_2.html	https://detail.zol.com.cn/1345/1344364/param.shtml	华为Mate40	￥7699	8GB	256GB	华为		2020年12月
+1436121	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1437/1436121/param.shtml	HUAWEI nova 10 SE	￥1999	8GB	256GB	华为		2022年12月
+1392311	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1393/1392311/param.shtml	华为畅享20e	￥698	4GB	64GB	华为		2021年10月
+1320707	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1321/1320707/param.shtml	华为nova 7	￥3299	8GB	256GB	华为		2020年04月
+1293856	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1294/1293856/param.shtml	华为Mate30		8GB	128GB	华为		2019年09月
+1349133	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1350/1349133/param.shtml	华为P50 Pro+		6GB	64GB	华为		2021年
+1316636	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1317/1316636/param.shtml	华为P40	￥5279	8GB	256GB	华为		2020年04月
+1427319	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1428/1427319/param.shtml	HUAWEI Mate50 Pro 	￥6859	8GB	512GB	华为		2022年09月
+1427316	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1428/1427316/param.shtml	HUAWEI Mate50	￥4864	8GB	256GB	华为		2022年09月
+1316635	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1317/1316635/param.shtml	华为P40	￥3899	8GB	128GB	华为		2020年04月
+1394861	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1395/1394861/param.shtml	华为Mate X2 典藏版	￥20788	12GB	512GB	华为		2021年12月
+1293901	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1294/1293901/param.shtml	华为Mate30 Pro		8GB	128GB	华为		2019年11月
+1345498	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1346/1345498/param.shtml	华为Mate40 Pro	￥6769	8GB	128GB	华为		2020年10月
+1412809	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1413/1412809/param.shtml	华为畅享 50	￥1469	8GB	256GB	华为		2022年06月
+1368212	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1369/1368212/param.shtml	华为Mate40 Pro		8GB	256GB	华为		2021年06月
+1427317	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1428/1427317/param.shtml	HUAWEI Mate50	￥6199	8GB	512GB	华为		2022年09月
+1447813	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1448/1447813/param.shtml	华为P60 Ultra参数		6GB	64GB	华为		
+1352867	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1353/1352867/param.shtml	华为畅享20 SE	￥1398	8GB	128GB	华为		2021年1月
+1277904	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1278/1277904/param.shtml	华为麦芒8		6GB	128GB	华为		2019年06月
+1357178	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1358/1357178/param.shtml	华为nova 7 SE	￥1898	8GB	128GB	华为		2020年10月
+1379975	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1380/1379975/param.shtml	华为nova 8 SE 活力版	￥1288	8GB	128GB	华为		2021年08月
+1466332	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1467/1466332/param.shtml	HUAWEI nova 10 青春版	￥1729	8GB	256GB	华为		2023年03月
+1297078	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1298/1297078/param.shtml	华为畅享10	￥999	4GB	128GB	华为		2019年10月
+1427276	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1428/1427276/param.shtml	华为nova 10z	￥1419	8GB	128GB	华为		2022年09月
+1427318	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1428/1427318/param.shtml	HUAWEI Mate50 Pro 	￥5799	8GB	256GB	华为		2022年09月
+1338399	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1339/1338399/param.shtml	华为畅享20	￥1099	6GB	128GB	华为		2020年09月
+1320708	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1321/1320708/param.shtml	华为nova 7 Pro	￥3879	8GB	256GB	华为		2020年04月
+1352866	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1353/1352866/param.shtml	华为nova 8	￥2769	8GB	256GB	华为		2020年12月
+1380724	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1381/1380724/param.shtml	华为P50 Pro	￥4449	8GB	256GB	华为		2021年09月
+1422455	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1423/1422455/param.shtml	华为畅享 50 Pro	￥1689	8GB	256GB	华为		2022年07月
+1511780	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1512/1511780/param.shtml	HUAWEI nova 11 Pro 昆仑玻璃版	￥3699（预售）	8GB	256GB	华为		2023年04月
+1344323	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1345/1344323/param.shtml	华为Mate40 RS保时捷版		12GB	256GB	华为		2020年10月
+1432663	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1433/1432663/param.shtml	华为Pocket S 	￥7388	12GB	512GB	华为		2022年11月
+1436219	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1437/1436219/param.shtml	华为畅享50z	￥1399	6GB	256GB	华为		2022年12月
+1380722	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1381/1380722/param.shtml	华为P50 Pro		8GB	128GB	华为		2021年08月
+1316634	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1317/1316634/param.shtml	华为P40 Pro+		8GB	256GB	华为		2020年06月
+1389078	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1390/1389078/param.shtml	华为nova 9 Pro	￥2698	8GB	256GB	华为		2021年09月
+1293857	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1294/1293857/param.shtml	华为Mate30 Pro	￥5199	8GB	256GB	华为		2019年09月
+1344382	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1345/1344382/param.shtml	华为Mate40 Pro	￥8399	8GB	256GB	华为		2020年10月
+1343097	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1344/1343097/param.shtml	华为nova 7 SE	￥1699	8GB	128GB	华为		2020年10月
+1466808	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1467/1466808/param.shtml	华为P60 E参数		8GB	256GB	华为		
+1323973	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1324/1323973/param.shtml	华为畅享Z	￥1799	6GB	64GB	华为		2020年06月
+1368208	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1369/1368208/param.shtml	华为Mate40 Pro		8GB	256GB	华为		2021年04月
+1344324	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1345/1344324/param.shtml	华为Mate40 RS保时捷版		12GB	512GB	华为		2020年10月
+1297079	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1298/1297079/param.shtml	华为畅享10		6GB	64GB	华为		2019年10月
+1293931	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1294/1293931/param.shtml	华为Mate30	￥6799	8GB	256GB	华为		2019年11月
+1352874	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1353/1352874/param.shtml	华为nova 8 Pro	￥2799	8GB	256GB	华为		2020年12月
+1355543	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_3.html	https://detail.zol.com.cn/1356/1355543/param.shtml	华为nova 8 Pro	￥3378	8GB	128GB	华为		2021年1月
+1346463	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1347/1346463/param.shtml	华为nova 8 SE	￥1449	8GB	128GB	华为		2020年11月
+1333295	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1334/1333295/param.shtml	华为麦芒9	￥3688	8GB	128GB	华为		2020年08月
+1338401	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1339/1338401/param.shtml	华为畅享20 Plus	￥1199	8GB	128GB	华为		2020年9月
+1344322	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1345/1344322/param.shtml	华为Mate40 Pro	￥7599	8GB	512GB	华为		2020年10月
+1432662	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1433/1432662/param.shtml	华为Pocket S 	￥6388	8GB	256GB	华为		2022年11月
+1406639	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1407/1406639/param.shtml	华为Mate Xs 2	￥10699	12GB	512GB	华为		2022年05月
+1362394	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1363/1362394/param.shtml	华为Mate40E	￥4578	8GB	256GB	华为		2021年03月
+1380725	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1381/1380725/param.shtml	华为P50 Pro	￥8899	12GB	512GB	华为		2021年09月
+1344377	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1345/1344377/param.shtml	华为Mate40	￥8994	8GB	128GB	华为		2020年12月
+1293878	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1294/1293878/param.shtml	华为Mate30	￥4999	8GB	128GB	华为		2019年11月
+1328593	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1329/1328593/param.shtml	华为畅享20 Pro	￥1758	8GB	128GB	华为		2020年06月
+1380726	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1381/1380726/param.shtml	华为P50 Pro	￥10988	12GB	512GB	华为		2021年09月
+1395880	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1396/1395880/param.shtml	华为P50 Pro	￥4199	8GB	128GB	华为		2021年09月
+1396127	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1397/1396127/param.shtml	华为P50 Pocket 艺术定制版	￥9388	12GB	512GB	华为		2021年12月
+1293906	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1294/1293906/param.shtml	华为Mate30 Pro	￥4599	8GB	128GB	华为		2019年11月
+1360368	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1361/1360368/param.shtml	华为Mate X2	￥9999	8GB	512GB	华为		2021年02月
+1430079	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1431/1430079/param.shtml	华为Mate40E Pro	￥5999	8GB	512GB	华为		2022年03月
+1368213	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1369/1368213/param.shtml	华为Mate40 Pro		8GB	512GB	华为		2021年04月
+1460933	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1461/1460933/param.shtml	华为nova 20参数		8GB	128GB	华为		2023年
+1368234	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1369/1368234/param.shtml	华为Mate40E	￥4578	8GB	256GB	华为		2021年06月
+1291512	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1292/1291512/param.shtml	华为畅享10 Plus		8GB	128GB	华为		2019年09月
+1368179	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1369/1368179/param.shtml	华为Mate40 Pro	￥5999	8GB	256GB	华为		2021年06月
+1344372	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1345/1344372/param.shtml	华为Mate40	￥7094	8GB	128GB	华为		2020年12月
+1293907	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1294/1293907/param.shtml	华为Mate30 Pro	￥7569	8GB	512GB	华为		2019年11月
+1368200	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1369/1368200/param.shtml	华为Mate40 Pro	￥6099	8GB	128GB	华为		2021年06月
+1380723	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1381/1380723/param.shtml	华为P50 Pro	￥6569	8GB	512GB	华为		2021年09月
+1368341	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1369/1368341/param.shtml	华为nova 8 Pro	￥2399	8GB	128GB	华为		2021年06月
+1368235	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1369/1368235/param.shtml	华为Mate40E	￥3788	8GB	128GB	华为		2021年06月
+1293904	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1294/1293904/param.shtml	华为Mate30 Pro		8GB	256GB	华为		2019年11月
+1279792	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1280/1279792/param.shtml	华为畅享9S		6GB	64GB	华为		2019年3月
+1368125	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1369/1368125/param.shtml	华为Mate X2	￥16588	8GB	256GB	华为		2021年06月
+1327071	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1328/1327071/param.shtml	华为畅享10	￥1388	6GB	128GB	华为		2019年10月
+1291507	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1292/1291507/param.shtml	华为畅享10 Plus		6GB	128GB	华为		2019年09月
+1406638	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1407/1406638/param.shtml	华为Mate Xs 2	￥10499	8GB	512GB	华为		2022年05月
+1315471	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1316/1315471/param.shtml	华为畅享9S		4GB	128GB	华为		2019年3月
+1303014	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1304/1303014/param.shtml	华为畅享10S	￥1389	6GB	128GB	华为		2019年11月
+1303016	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1304/1303016/param.shtml	华为畅享10S		8GB	128GB	华为		2019年11月
+1396591	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1397/1396591/param.shtml	华为畅享20e 高配版	￥978	6GB	128GB	华为		2022年01月
+1392341	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1393/1392341/param.shtml	华为畅享20e	￥828	4GB	128GB	华为		2021年10月
+1408720	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1409/1408720/param.shtml	华为P50 Pocket	￥8388	8GB	512GB	华为		2021年12月
+1293903	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1294/1293903/param.shtml	华为Mate30 Pro	￥6499	8GB	512GB	华为		2019年11月
+1324694	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1325/1324694/param.shtml	华为畅享Z	￥2299	8GB	128GB	华为		2020年06月
+1345524	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1346/1345524/param.shtml	华为Mate30E Pro	￥4269	8GB	128GB	华为		2020年10月
+1368343	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1369/1368343/param.shtml	华为nova 8 Pro	￥2999	8GB	256GB	华为		2021年06月
+1368210	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1369/1368210/param.shtml	华为Mate40 Pro		8GB	128GB	华为		2021年06月
+1313058	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1314/1313058/param.shtml	华为畅享10e	￥849	4GB	128GB	华为		2020年3月
+1345515	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_4.html	https://detail.zol.com.cn/1346/1345515/param.shtml	华为Mate30E Pro	￥5499	8GB	256GB	华为		2020年10月
+1394867	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_5.html	https://detail.zol.com.cn/1395/1394867/param.shtml	华为Mate X2 典藏版	￥18999	12GB	512GB	华为		2021年11月
+1380721	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_5.html	https://detail.zol.com.cn/1381/1380721/param.shtml	华为P50 Pro	￥6988	8GB	512GB	华为		2021年08月
+1344380	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_5.html	https://detail.zol.com.cn/1345/1344380/param.shtml	华为Mate40 Pro	￥13799	8GB	512GB	华为		2020年10月
+1344325	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_5.html	https://detail.zol.com.cn/1345/1344325/param.shtml	华为Mate30E Pro	￥4899	8GB	256GB	华为		2020年10月
+1368126	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_5.html	https://detail.zol.com.cn/1369/1368126/param.shtml	华为Mate X2		8GB	512GB	华为		2021年04月
+1327074	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_5.html	https://detail.zol.com.cn/1328/1327074/param.shtml	华为畅享10S		4GB	128GB	华为		2019年11月
+1324693	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_5.html	https://detail.zol.com.cn/1325/1324693/param.shtml	华为畅享Z	￥2099	6GB	128GB	华为		2020年06月
+1209335	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1210/1209335/param.shtml	华为nova 2 Lite		3GB	32GB	华为		2018年
+1141601	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1142/1141601/param.shtml	华为Mate S2		4GB		华为		
+1230270	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1231/1230270/param.shtml	华为Mate 20 MAX		8GB	256GB	华为		2018年
+1173063	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1174/1173063/param.shtml	华为Y7 Prime		3GB	32GB	华为		2017年
+1205754	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1206/1205754/param.shtml	华为P11 Lite				华为		2018年
+1209039	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1210/1209039/param.shtml	华为Y9 2018		3GB	32GB	华为		2018年
+1184085	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1185/1184085/param.shtml	华为Mate X		8GB	512GB	华为		2019年11月
+1138705	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1139/1138705/param.shtml	华为Y6 Pro		2GB	16GB	华为		
+1185759	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1186/1185759/param.shtml	华为Mate 11		6GB	64GB	华为		2018年09月
+1287860	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1288/1287860/param.shtml	华为Mate30 Lite		10GB	1TB	华为		2019年09月
+1166922	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1167/1166922/param.shtml	华为P11		6GB		华为		2018年03月
+1315691	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1316/1315691/param.shtml	华为nova 4		6GB	128GB	华为		2018年12月
+222286	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/223/222286/param.shtml	华为CHT8000参数				华为		2010年
+1179566	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1180/1179566/param.shtml	华为nova 2 Plus		4GB	128GB	华为		2017年06月
+1179568	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1180/1179568/param.shtml	华为nova 2		4GB	64GB	华为		2017年06月
+1179640	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1180/1179640/param.shtml	华为畅享6S		3GB	32GB	华为		2016年12月
+284899	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/285/284899/param.shtml	华为G7010参数				华为		2011年05月
+251296	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/252/251296/param.shtml	华为U8500参数		256MB	512MB	华为		2010年08月
+313872	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/314/313872/param.shtml	华为U9501L		1GB	4GB	华为		2012年
+313873	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/314/313873/param.shtml	华为Ascend P1 LTE参数		1GB	4GB	华为		2012年
+283845	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/284/283845/param.shtml	华为T5050参数				华为		2011年05月
+1100545	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1101/1100545/param.shtml	华为畅享5		2GB	16GB	华为		2015年10月
+404275	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/405/404275/param.shtml	华为P9		3GB	32GB	华为		2016年04月
+344925	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/345/344925/param.shtml	华为Ascend P2参数		1GB	16GB	华为		2013年02月
+344928	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/345/344928/param.shtml	华为Ascend G350参数		512MB	4GB	华为		2013年01月
+345079	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/346/345079/param.shtml	华为G520-5000		512MB	4GB	华为		2013年01月
+221319	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/222/221319/param.shtml	华为T552参数				华为		
+374124	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/375/374124/param.shtml	华为Y516		512MB	4GB	华为		2014年03月
+343939	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/344/343939/param.shtml	华为Ascend W1-C00		512MB	4GB	华为		2013年
+284214	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/285/284214/param.shtml	华为U8160参数		130MB		华为		2011年04月
+190653	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/191/190653/param.shtml	华为C5600参数				华为		2009年
+1178067	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_6.html	https://detail.zol.com.cn/1179/1178067/param.shtml	华为G9青春版		3GB	16GB	华为		2016年05月
+1208286	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1209/1208286/param.shtml	华为畅享8		3GB	32GB	华为		2018年03月
+1148829	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1149/1148829/param.shtml	华为麦芒5		4GB	64GB	华为		2016年07月
+1100176	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1101/1100176/param.shtml	华为Mate S		3GB	64GB	华为		2015年11月
+1100352	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1101/1100352/param.shtml	华为Y560-CL00		1GB	8GB	华为		2015年06月
+302431	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/303/302431/param.shtml	华为U8660参数		256MB	512MB	华为		2011年10月
+332398	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/333/332398/param.shtml	华为Ascend G330C		512MB	4GB	华为		2012年
+1202582	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1203/1202582/param.shtml	华为畅享7		2GB	16GB	华为		2017年07月
+1202584	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1203/1202584/param.shtml	华为畅享7		3GB	32GB	华为		2017年07月
+1202606	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1203/1202606/param.shtml	华为nova青春版		4GB	64GB	华为		2017年03月
+1142607	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1143/1142607/param.shtml	华为P9 Plus		4GB	128GB	华为		2016年04月
+393924	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/394/393924/param.shtml	华为Ascend GX1		1GB	8GB	华为		2014年12月
+394047	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/395/394047/param.shtml	华为Ascend G7		2GB	16GB	华为		2014年10月
+243204	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/244/243204/param.shtml	华为T5211参数				华为		2010年04月
+303446	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/304/303446/param.shtml	华为S8520参数		256MB	512MB	华为		2011年09月
+213560	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/214/213560/param.shtml	华为U1270参数				华为		2009年09月
+393587	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/394/393587/param.shtml	华为Mate 7		3GB	64GB	华为		2014年09月
+393588	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/394/393588/param.shtml	华为Mate 7		3GB	64GB	华为		2014年09月
+393591	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/394/393591/param.shtml	华为Ascend P7		2GB	16GB	华为		2014年05月
+393595	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/394/393595/param.shtml	华为Y523			4GB	华为		2014年11月
+391320	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/392/391320/param.shtml	华为G616		512MB	4GB	华为		2014年10月
+362690	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/363/362690/param.shtml	华为G716		1GB	4GB	华为		2013年
+362694	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/363/362694/param.shtml	华为Ascend D2		2GB	32GB	华为		2013年
+1110121	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1111/1110121/param.shtml	华为Mate 8 Small		3GB	32GB	华为		
+1110169	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1111/1110169/param.shtml	华为Mate S		3GB	64GB	华为		2015年09月
+1231072	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/1232/1231072/param.shtml	华为P20 Pro		8GB	128GB	华为		2018年04月
+404776	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/405/404776/param.shtml	华为麦芒4		3GB	32GB	华为		2015年07月
+191965	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/192/191965/param.shtml	华为U5700参数				华为		2009年05月
+192002	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/193/192002/param.shtml	华为U7310参数				华为		2009年06月
+375835	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/376/375835/param.shtml	华为Ascend G6		1GB	4GB	华为		2014年03月
+375836	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/376/375836/param.shtml	华为Ascend G6		1GB	4GB	华为		2014年03月
+345270	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/346/345270/param.shtml	华为Y310参数		512MB	512MB	华为		2013年
+345370	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/346/345370/param.shtml	华为Y210S参数		256MB	512MB	华为		2012年
+345382	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/346/345382/param.shtml	华为Ascend G615		1GB	4GB	华为		2013年01月
+285823	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/286/285823/param.shtml	华为C5735参数		128MB		华为		2011年05月
+252128	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/253/252128/param.shtml	华为T1600参数				华为		2010年08月
+252164	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/253/252164/param.shtml	华为U3100参数				华为		2010年08月
+350646	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/351/350646/param.shtml	华为G530参数				华为		2013年04月
+290977	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/291/290977/param.shtml	华为C8500S参数		256MB	512MB	华为		2011年07月
+257104	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/258/257104/param.shtml	华为C6200参数				华为		2010年09月
+379635	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_7.html	https://detail.zol.com.cn/380/379635/param.shtml	华为Ascend P7		2GB	16GB	华为		2014年05月
+348914	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/349/348914/param.shtml	华为G525参数		1GB	4GB	华为		2013年
+289606	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/290/289606/param.shtml	华为Vision		512MB	2GB	华为		2011年06月
+255405	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/256/255405/param.shtml	华为U8150参数		256MB	512MB	华为		2010年
+231288	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/232/231288/param.shtml	华为C5700参数				华为		2010年07月
+200133	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/201/200133/param.shtml	华为C7100参数				华为		2008年08月
+384764	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/385/384764/param.shtml	华为G521		512MB	4GB	华为		2014年06月
+384819	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/385/384819/param.shtml	华为G660		1GB	8GB	华为		2014年06月
+384914	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/385/384914/param.shtml	华为Y600D参数		512MB	4GB	华为		2014年07月
+353957	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/354/353957/param.shtml	华为Ascend P6		2GB	16GB	华为		2013年05月
+294089	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/295/294089/param.shtml	华为C2857参数				华为		2011年07月
+324950	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/325/324950/param.shtml	华为U8836D		1GB	4GB	华为		2012年09月
+324951	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/325/324951/param.shtml	华为C8820参数		512MB	512MB	华为		2012年
+385771	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/386/385771/param.shtml	华为G620		1GB	4GB	华为		2014年04月
+354493	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/355/354493/param.shtml	华为Mate		1GB	8GB	华为		2013年
+354498	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/355/354498/param.shtml	华为Ascend P6		2GB	8GB	华为		2013年05月
+354519	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/355/354519/param.shtml	华为Ascend P6		2GB	8GB	华为		2013年05月
+1279521	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/1280/1279521/param.shtml	华为nova 5 Pro		8GB	128GB	华为		2019年06月
+1279525	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/1280/1279525/param.shtml	华为nova 5 Pro		8GB	256GB	华为		2019年06月
+199327	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/200/199327/param.shtml	华为U8230参数				华为		2010年
+1157417	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/1158/1157417/param.shtml	华为nova		3GB	32GB	华为		2016年10月
+1157596	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/1158/1157596/param.shtml	华为畅享6S		3GB	32GB	华为		2016年12月
+1157608	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/1158/1157608/param.shtml	华为畅享6		3GB	16GB	华为		2016年11月
+293459	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/294/293459/param.shtml	华为T3061参数				华为		2011年08月
+293535	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/294/293535/param.shtml	华为T2011参数				华为		2011年07月
+258995	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/259/258995/param.shtml	华为T2010参数		64MB	128MB	华为		2010年09月
+326061	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/327/326061/param.shtml	华为T8808D		512MB	1GB	华为		2012年
+326211	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/327/326211/param.shtml	华为Ascend P1		1GB	4GB	华为		2012年
+386668	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/387/386668/param.shtml	华为Ascend G7		2GB	16GB	华为		2014年10月
+355647	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/356/355647/param.shtml	华为Y310S参数		512MB	512MB	华为		2013年06月
+296437	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/297/296437/param.shtml	华为U8652参数		256MB	512MB	华为		2011年08月
+1160028	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_8.html	https://detail.zol.com.cn/1161/1160028/param.shtml	华为P10		4GB	64GB	华为		2017年03月
+1160109	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1161/1160109/param.shtml	华为Mate 9 Pro		6GB	128GB	华为		2016年12月
+1280628	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1281/1280628/param.shtml	华为nova 5i		8GB	128GB	华为		2019年6月
+261589	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/262/261589/param.shtml	华为T1201参数				华为		2010年10月
+387703	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/388/387703/param.shtml	华为Y518		512MB	4GB	华为		2014年09月
+356600	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/357/356600/param.shtml	华为G610S		1GB	4GB	华为		2013年
+356654	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/357/356654/param.shtml	华为G610T		1GB	4GB	华为		2013年06月
+354232	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/355/354232/param.shtml	华为G606		512MB	4GB	华为		2013年01月
+354356	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/355/354356/param.shtml	华为G610C		1GB	4GB	华为		2013年12月
+259959	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/260/259959/param.shtml	华为C8300参数		256MB	512MB	华为		2010年10月
+384432	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/385/384432/param.shtml	华为G630参数		1GB	4GB	华为		2014年04月
+370494	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/371/370494/param.shtml	华为Y530参数		512MB	4GB	华为		2014年02月
+340317	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/341/340317/param.shtml	华为G309T pro		512MB	4GB	华为		2012年
+345783	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/346/345783/param.shtml	华为Ascend W3参数		1GB	16GB	华为		2013年01月
+1210089	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1211/1210089/param.shtml	华为Mate RS保时捷版		6GB	256GB	华为		2018年04月
+1210102	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1211/1210102/param.shtml	华为畅享8 Plus		4GB	64GB	华为		2018年03月
+1210103	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1211/1210103/param.shtml	华为畅享8e		3GB	32GB	华为		2018年03月
+1210286	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1211/1210286/param.shtml	华为畅享8		4GB	64GB	华为		2018年
+1210287	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1211/1210287/param.shtml	华为畅享8		3GB	32GB	华为		2018年
+1102139	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1103/1102139/param.shtml	华为Mate 8		3GB	32GB	华为		2015年11月
+225239	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/226/225239/param.shtml	华为T2211参数				华为		2009年
+347233	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/348/347233/param.shtml	华为Ascend D2		2GB	16GB	华为		2013年
+347537	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/348/347537/param.shtml	华为A199		2GB	8GB	华为		2013年04月
+253833	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/254/253833/param.shtml	华为C8500参数				华为		2010年08月
+1303591	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1304/1303591/param.shtml	华为nova 6		8GB	128GB	华为		2019年12月
+1303596	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1304/1303596/param.shtml	华为nova 6 5G		8GB	256GB	华为		2019年12月
+318807	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/319/318807/param.shtml	华为T8828参数		512MB	4GB	华为		2012年
+289037	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/290/289037/param.shtml	华为C8650参数		256MB	512MB	华为		2011年08月
+1153414	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1154/1153414/param.shtml	华为G9 Plus		3GB	32GB	华为		2016年08月
+1273758	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1274/1273758/param.shtml	华为nova 5		8GB	128GB	华为		2019年7月
+317093	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/318/317093/param.shtml	华为U8661		256MB	512MB	华为		2012年
+376990	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/377/376990/param.shtml	华为T8950N		1GB	4GB	华为		2013年06月
+1181629	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1182/1181629/param.shtml	华为畅享6		3GB	16GB	华为		2016年11月
+1181638	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1182/1181638/param.shtml	华为畅享7 Plus		4GB	64GB	华为		2017年04月
+1181639	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/1182/1181639/param.shtml	华为畅享7 Plus		3GB	32GB	华为		2017年04月
+346407	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/347/346407/param.shtml	华为Y500参数		512MB	2GB	华为		2013年
+286947	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/287/286947/param.shtml	华为Vision		512MB	2GB	华为		2011年
+388059	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/389/388059/param.shtml	华为Mate 7		3GB	32GB	华为		2014年09月
+388063	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/389/388063/param.shtml	华为Mate 7		2GB	16GB	华为		2014年09月
+388065	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/389/388065/param.shtml	华为Mate 7		3GB	32GB	华为		2014年09月
+388068	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/389/388068/param.shtml	华为Mate 7		2GB	16GB	华为		2014年09月
+388072	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/389/388072/param.shtml	华为Mate 7		3GB	32GB	华为		2014年09月
+388120	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_9.html	https://detail.zol.com.cn/389/388120/param.shtml	华为Ascend Y550参数			4GB	华为		2014年09月
+388124	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/389/388124/param.shtml	华为Ascend G620S参数			8GB	华为		2014年09月
+356966	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/357/356966/param.shtml	华为Ascend W2		512MB	8GB	华为		2013年08月
+297413	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/298/297413/param.shtml	华为U8800+参数		512MB	4GB	华为		2011年09月
+392236	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/393/392236/param.shtml	华为P8		3GB	64GB	华为		2015年04月
+392294	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/393/392294/param.shtml	华为Mate S		3GB	32GB	华为		2015年11月
+181546	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/182/181546/param.shtml	华为C2800参数				华为		
+181552	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/182/181552/param.shtml	华为C2905参数				华为		
+181561	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/182/181561/param.shtml	华为C2600参数				华为		
+363379	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/364/363379/param.shtml	华为C8813DQ		1GB	4GB	华为		2013年
+1171240	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1172/1171240/param.shtml	华为Y7		2GB	16GB	华为		2017年
+365686	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/366/365686/param.shtml	华为Y300参数		512MB	4GB	华为		2013年11月
+1263910	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1264/1263910/param.shtml	华为畅享9S		4GB	64GB	华为		2019年3月
+395008	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/396/395008/param.shtml	华为G628		1GB	8GB	华为		2015年01月
+1143413	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1144/1143413/param.shtml	华为Mate 9	￥1249	4GB	32GB	华为		2016年11月
+1233492	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1234/1233492/param.shtml	华为Mate 20 X		6GB	128GB	华为		2018年10月
+362181	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/363/362181/param.shtml	华为Ascend D2		2GB	32GB	华为		2013年09月
+1170042	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1171/1170042/param.shtml	华为nova 2		4GB	64GB	华为		2017年06月
+1170043	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1171/1170043/param.shtml	华为nova 2 Plus		4GB	128GB	华为		2017年06月
+271799	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/272/271799/param.shtml	华为F560参数				华为		2011年01月
+271983	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/272/271983/param.shtml	华为U8510		256MB	512MB	华为		2011年02月
+1230261	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1231/1230261/param.shtml	华为P20 Pro		8GB	256GB	华为		2018年04月
+1230266	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1231/1230266/param.shtml	华为Mate 20 RS保时捷版		8GB	512GB	华为		2018年11月
+1320709	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1321/1320709/param.shtml	华为nova 7 SE	￥1599	8GB	256GB	华为		2020年04月
+1291822	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1292/1291822/param.shtml	华为P30 Pro	￥5299	8GB	512GB	华为		2019年04月
+1291827	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1292/1291827/param.shtml	华为P30 Pro	￥4758	8GB	256GB	华为		2019年04月
+363916	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/364/363916/param.shtml	华为Y321C		512MB	4GB	华为		2013年10月
+1171947	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1172/1171947/param.shtml	华为Y6 2017		2GB	16GB	华为		2017年
+1141875	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1142/1141875/param.shtml	华为P9 Plus		4GB	64GB	华为		2016年04月
+1141878	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1142/1141878/param.shtml	华为P9		3GB	32GB	华为		2016年04月
+1141879	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1142/1141879/param.shtml	华为P9		3GB	32GB	华为		2016年04月
+1141880	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1142/1141880/param.shtml	华为P9		3GB	32GB	华为		2016年04月
+276265	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/277/276265/param.shtml	华为T3060参数		64MB	128MB	华为		2011年
+1264248	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1265/1264248/param.shtml	华为P30	￥2988	6GB	128GB	华为		2019年04月
+395902	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/396/395902/param.shtml	华为Mate 7青春版		2GB	16GB	华为		2014年12月
+366992	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/367/366992/param.shtml	华为G730-T00		1GB	4GB	华为		2013年12月
+366994	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/367/366994/param.shtml	华为G730-C00		1GB	4GB	华为		2013年
+336036	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/337/336036/param.shtml	华为Ascend W1-U00		512MB	4GB	华为		2013年01月
+276832	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/277/276832/param.shtml	华为C8800参数		512MB	512MB	华为		2011年03月
+1143673	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1144/1143673/param.shtml	华为G9青春版		3GB	16GB	华为		2016年05月
+1233874	http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_10.html	https://detail.zol.com.cn/1234/1233874/param.shtml	华为畅享9		3GB	32GB	华为		2018年12月
