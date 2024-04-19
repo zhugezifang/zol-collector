@@ -7,5 +7,6 @@ https://www.gsmarena.com/
 #映射关系
 https://github.com/KHwang9883/MobileModels
 
-【腾讯文档】手机信息汇总
+【腾讯文档】手机信息汇总---爬虫好的数据
+
 https://docs.qq.com/sheet/DZWpXUmFKeG5PZlBS?tab=3w06hs
