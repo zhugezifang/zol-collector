@@ -7,4 +7,4 @@ https://www.gsmarena.com/
 #映射关系
 https://github.com/KHwang9883/MobileModels
 
-手机数据网站：https://mobile-price-info.vercel.app/
+手机数据网站：https://www.mobileinfo.online
