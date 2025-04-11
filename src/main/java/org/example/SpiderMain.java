@@ -1,16 +1,27 @@
 package org.example;
 
+import com.alibaba.fastjson.JSONObject;
+import org.example.domain.Resume;
 import org.example.pipeline.ConsolePipeline;
+import org.example.pipeline.DipuConsolePipeline;
+import org.example.processor.DiziPageProcessor;
+import org.example.processor.ResumeZhPageProcessor;
 import org.example.processor.ZoLPageProcessor;
 import us.codecraft.webmagic.Spider;
 
+import java.io.*;
+import java.util.Map;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 public class SpiderMain {
     public static void main(String[] args) {
-
-        String[] baseUrls = new String[]{
+        dizijun();
+        //resumeZh();
+        /*String[] baseUrls = new String[]{
                 "http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_${i}.html"};
 
-        /*String[] baseUrls = new String[]{
+        String[] baseUrls = new String[]{
                 "http://detail.zol.com.cn/cell_phone_index/subcate57_613_list_${i}.html",
                 "http://detail.zol.com.cn/cell_phone_index/subcate57_544_list_${i}.html",
                 "http://detail.zol.com.cn/cell_phone_index/subcate57_49202_list_${i}.html",
@@ -104,7 +115,7 @@ public class SpiderMain {
                 "http://detail.zol.com.cn/cell_phone_index/subcate57_35005_list_${i}.html",
                 "http://detail.zol.com.cn/cell_phone_index/subcate57_35228_list_${i}.html",
                 "http://detail.zol.com.cn/cell_phone_index/subcate57_599_list_${i}.html"
-        };*/
+        };
         String[] urls = new String[10 * baseUrls.length];
         int num = 0;
         for (int i = 0; i < baseUrls.length; i++) {
@@ -115,5 +126,69 @@ public class SpiderMain {
             }
         }
         Spider.create(new ZoLPageProcessor()).addUrl(urls).addPipeline(new ConsolePipeline()).thread(baseUrls.length).run();
+        */
     }
+
+    static void dizijun(){
+        String url = "http://www.dizijun.com/jianpu/tag_A.html";
+        Spider.create(new DiziPageProcessor()).addUrl(url).addPipeline(new DipuConsolePipeline()).run();
+    }
+
+    static void resumeZh() {
+        String url = "https://www.jianlimoban-ziyuan.com";
+        Spider.create(new ResumeZhPageProcessor()).addUrl(url).addPipeline(new ConsolePipeline()).run();
+    }
+
+    static void readResumeInfo() {
+        // 文件路径替换为实际路径
+        //String filePath = "example.txt";
+        String filePath = System.getProperty("user.dir") + "/src/main/resources/resume-data.txt";
+
+        try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+            String line;
+            while ((line = br.readLine()) != null) {
+                try {
+                    String[] str = line.split("https");
+
+
+                    System.out.println(str[0] + " " + "https"+str[1] + " " + "https"+str[2]);
+                } catch (Exception e) {
+                    //System.out.println(line);
+                }
+                //System.out.println(line); // 处理每一行
+            }
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        /*FileWriter fw = null;
+        try {
+            System.out.println(filePath);
+            File f = new File(filePath);
+            if (!f.exists()) {
+                f.createNewFile();
+            }
+            fw = new FileWriter(f, true);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        PrintWriter pw = new PrintWriter(fw);
+        for (Map.Entry<String, Object> entry : resultItems.getAll().entrySet()) {
+            Resume zolResult = (Resume) entry.getValue();
+            System.out.println(JSONObject.toJSONString(zolResult));
+            String str = zolResult.getId() + "\t" + zolResult.getTitle() + "\t" + zolResult.getCategory() + "\t" + zolResult.getImgUrl()+ "\t" + zolResult.getDownloadUrl();
+            pw.println(str);
+        }
+        pw.flush();
+        try {
+            fw.flush();
+            pw.close();
+            fw.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+         */
+    }
+
 }
