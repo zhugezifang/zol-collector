@@ -25,7 +25,7 @@ public class ResumeZhPageProcessor implements PageProcessor {
 
     private Site site = Site.me().setRetryTimes(3).setSleepTime(1000).setTimeOut(10000);
 
-    public static final String URL_LIST = "jianlimoban";
+    public static final String URL_LIST = "list";
 
     public static final String URL_CONTENT = "html";
 
@@ -36,19 +36,26 @@ public class ResumeZhPageProcessor implements PageProcessor {
     @Override
     public void process(Page page) {
         //列表页
-        if (page.getUrl().regex(URL_CONTENT).match()) {
+        if (page.getUrl().regex(URL_LIST).match()) {
 
-            //String id = page.getUrl().get().split(".html")[0].split("\\/")[1];
-
-            List<String> listA = page.getHtml().xpath("//div[@class='nav_box']/a").all();
-
-
-            String category= new Html(listA.get(1)).css("a", "text").get();
-
-
-            String downLoadUrl = page.getHtml().css("#download_btn a","href").get();
-
-            System.out.println(page.getUrl()+" "+category+" "+downLoadUrl);
+            List<String> list = page.getHtml().xpath("//div[@class='jlmblist']").all();
+            
+            if (list.size() > 0) {
+                List<String> urlList = new ArrayList<>();
+                for (String s : list) {
+                    List<String> cvList= new Html(s).xpath("//div[@class='jlmbpre']").all();
+                    Selectable selectable= new Html(cvList.get(0));
+                    String href= "https://www.51386.com"+selectable.xpath("//a/@href").get();
+                    
+                    
+                    String title= selectable.xpath("//a/@title").get();
+                    String imgUrl= "https:"+selectable.xpath("//a//img/@src").get();
+                    System.out.println("=========");
+                    System.out.println(title);
+                    System.out.println(href);
+                    System.out.println(imgUrl);
+                }
+            }
 
         }else if (page.getUrl().regex(URL_LIST).match()) {
             List<String> list = page.getHtml().xpath("//div[@class='mb_item']").all();
@@ -97,7 +104,7 @@ public class ResumeZhPageProcessor implements PageProcessor {
         //String url="https://www.jianlimoban-ziyuan.com/duoye/748.html";
 
         String[] baseUrls = new String[]{
-                "https://www.51386.com/"
+                "https://www.51386.com/jlmb/list1.html"
         };
 
         Spider.create(new ResumeZhPageProcessor()).addUrl(baseUrls).run();
