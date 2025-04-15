@@ -1,8 +1,6 @@
 package org.example.processor;
 
 import org.example.domain.Dipu;
-import org.example.domain.Resume;
-import org.example.domain.ZolResult;
 import org.example.pipeline.DipuConsolePipeline;
 import us.codecraft.webmagic.Page;
 import us.codecraft.webmagic.Site;
@@ -11,13 +9,16 @@ import us.codecraft.webmagic.processor.PageProcessor;
 import us.codecraft.webmagic.selector.Html;
 import us.codecraft.webmagic.selector.Selectable;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 /**
  * cnmo手机爬虫
  */
 
-public class DiziPageProcessor implements PageProcessor {
+public class SuiXinPuPageProcessor implements PageProcessor {
 
     private Site site = Site.me().setRetryTimes(3).setSleepTime(1000).setTimeOut(10000);
 
@@ -133,6 +134,6 @@ public class DiziPageProcessor implements PageProcessor {
                 ,"http://www.dizijun.com/jianpu/tag_Y.html"
                 ,"http://www.dizijun.com/jianpu/tag_Z.html"};
 
-        Spider.create(new DiziPageProcessor()).addUrl(baseUrls).addPipeline(new DipuConsolePipeline()).run();
+        Spider.create(new SuiXinPuPageProcessor()).addUrl(baseUrls).addPipeline(new DipuConsolePipeline()).run();
     }
 }

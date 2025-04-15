@@ -4,8 +4,17 @@ public class Resume {
     private String id;
     private String title;
     private String imgUrl;
+    private String contentImgUrl;
     private String downloadUrl;
     private String category;
+
+    public String getContentImgUrl() {
+        return contentImgUrl;
+    }
+
+    public void setContentImgUrl(String contentImgUrl) {
+        this.contentImgUrl = contentImgUrl;
+    }
 
     public String getCategory() {
         return category;

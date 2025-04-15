@@ -46,52 +46,46 @@ public class ResumeZhPageProcessor implements PageProcessor {
                     List<String> cvList= new Html(s).xpath("//div[@class='jlmbpre']").all();
                     Selectable selectable= new Html(cvList.get(0));
                     String href= "https://www.51386.com"+selectable.xpath("//a/@href").get();
-                    
-                    
+
                     String title= selectable.xpath("//a/@title").get();
                     String imgUrl= "https:"+selectable.xpath("//a//img/@src").get();
-                    System.out.println("=========");
-                    System.out.println(title);
-                    System.out.println(href);
-                    System.out.println(imgUrl);
-                }
-            }
-
-        }else if (page.getUrl().regex(URL_LIST).match()) {
-            List<String> list = page.getHtml().xpath("//div[@class='mb_item']").all();
-            if (list.size() > 0) {
-                List<String> urlList = new ArrayList<>();
-                for (String s : list) {
-                    Selectable selectable= new Html(s).xpath("//div[@class='mb_item_box']");
-
-                    String title = selectable.css(".title_box a", "text").get();
-                    // 提取图片地址（需要补全协议）
-                    String imageUrl = selectable.css(".img_box img", "src").get();
-                    if (imageUrl != null && imageUrl.startsWith("//")) {
-                        imageUrl = "https:" + imageUrl; // 补全为 HTTPS
+                    if (imgUrl.equals("https:")){
+                        imgUrl= "https:"+selectable.xpath("//a//img/@data-original").get();
                     }
-                    // 提取下载地址
-                    String downloadUrl = selectable.css(".down_right", "href").get();
-                    System.out.println(title+","+imageUrl+":"+downloadUrl);
-                    try {
-                        String id = downloadUrl.split(".html")[0].split("/")[2];
-
-                        Resume resume = new Resume();
-                        resume.setId(id);
-                        resume.setTitle(title);
-                        resume.setImgUrl(imageUrl);
-                        resumeMap.put(id, resume);
-
-                        String url = content_url.replace("{}", downloadUrl);
-                        urlList.add(url);
-                    } catch (Exception e) {
-                        System.out.println(downloadUrl);
-                        e.printStackTrace();
+                    String[] array = href.split("/");
+                    String id = array[array.length-1].split("\\.")[0];
+                    if (title.equals("")){
+                        break;
                     }
+                    System.out.println("==========");
+                    System.out.println(id+":"+title+":"+imgUrl+":"+href);
+                    Resume resume=new Resume();
+                    resume.setTitle(title);
+                    resume.setImgUrl(imgUrl);
+                    resume.setId(id);
+                    resumeMap.put(id,resume);
+                    urlList.add(href);
                 }
                 page.addTargetRequests(urlList);
             }
-            //详细参数页
+
+        }else {
+            List<String> list = page.getHtml().xpath("//p[@class='imgview']").all();
+            String[] str = page.getUrl().get().split("\\/");
+            String id= str[str.length-1].split("\\.")[0];
+
+            if (list.size() > 0) {
+                List<String> contentImgList = new ArrayList<>();
+                for (String s : list) {
+                    String contentImgUrl= "https:"+ new Html(s).xpath("//p//img/@src").get();
+                    contentImgList.add(contentImgUrl);
+                }
+                String downloadUrl = page.getHtml().xpath("//a[@class='dbpandown']/@href").get();
+                Resume resume = resumeMap.get(id);
+                resume.setContentImgUrl(String.join(";",contentImgList));
+                resume.setDownloadUrl(downloadUrl);
+                page.putField(id, resume);
+            }
         }
     }
 
@@ -102,11 +96,11 @@ public class ResumeZhPageProcessor implements PageProcessor {
 
     public static void main(String[] args) {
         //String url="https://www.jianlimoban-ziyuan.com/duoye/748.html";
-
-        String[] baseUrls = new String[]{
-                "https://www.51386.com/jlmb/list1.html"
-        };
-
-        Spider.create(new ResumeZhPageProcessor()).addUrl(baseUrls).run();
+        String url = "https://www.51386.com/jlmb/listxx.html";
+        String[] baseUrls = new String[14];
+        for(int i=0;i<14;i++){
+            baseUrls[i]=url.replaceAll("xx",(i+1)+"");
+        }
+        Spider.create(new ResumeZhPageProcessor()).addUrl(baseUrls).addPipeline(new ResumeConsolePipeline()).run();
     }
 }
