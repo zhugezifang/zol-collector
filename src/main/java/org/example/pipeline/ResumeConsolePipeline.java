@@ -35,7 +35,7 @@ public class ResumeConsolePipeline implements Pipeline {
         for (Map.Entry<String, Object> entry : resultItems.getAll().entrySet()) {
             Resume zolResult = (Resume) entry.getValue();
             System.out.println(JSONObject.toJSONString(zolResult));
-            String str = zolResult.getId() + "\t" + zolResult.getTitle() + "\t" + zolResult.getCategory() + "\t" + zolResult.getImgUrl()+ "\t" + zolResult.getDownloadUrl();
+            String str = zolResult.getId() + "\t" + zolResult.getTitle() + "\t" + zolResult.getImgUrl()+"\t" + zolResult.getContentImgUrl()+ "\t" + zolResult.getDownloadUrl();
             pw.println(str);
         }
         pw.flush();
