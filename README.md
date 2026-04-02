@@ -1,4 +1,4 @@
-#利用 github action 自动化手机价格爬虫，交流微信：zhugezifang001
+#利用 github action 自动化手机价格爬虫
 
 #手机价格爬虫
 https://product.cnmo.com/all/product.html 
